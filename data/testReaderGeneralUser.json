@@ -1,0 +1,18 @@
+{
+  "number of games": 2,
+  "favourite rounds": [
+    {
+      "manWin": 2,
+      "type": "Rock Paper Sizer",
+      "compWin": 3
+    },
+    {
+      "manWin": 0,
+      "type": "Guessing Number",
+      "compWin": 1
+    }
+  ],
+  "name": "testGeneralUser",
+  "number of rounds": 4,
+  "points": 3
+}

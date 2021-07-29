@@ -1,0 +1,47 @@
+{
+    "number of games": 8,
+    "favourite rounds": [
+        {
+            "manWin": 0,
+            "compWin": 1,
+            "type": "Rock Paper Sizer"
+        },
+        {
+            "manWin": 1,
+            "compWin": 1,
+            "type": "Rock Paper Sizer"
+        },
+        {
+            "manWin": 1,
+            "compWin": 1,
+            "type": "Rock Paper Sizer"
+        },
+        {
+            "manWin": 1,
+            "compWin": 0,
+            "type": "Rock Paper Sizer"
+        },
+        {
+            "manWin": 0,
+            "compWin": 1,
+            "type": "Guessing Number"
+        },
+        {
+            "manWin": 1,
+            "compWin": 0,
+            "type": "Rock Paper Sizer"
+        },
+        {
+            "manWin": 1,
+            "compWin": 0,
+            "type": "Rock Paper Sizer"
+        },
+        {
+            "manWin": 1,
+            "compWin": 1,
+            "type": "Rock Paper Sizer"
+        }
+    ],
+    "name": "Tom",
+    "points": 3
+}
